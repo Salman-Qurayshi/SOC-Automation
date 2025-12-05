@@ -180,6 +180,10 @@ A real-time email is delivered to the analyst's inbox with critical details, ens
 
 ![Email Notification](screenshots/6-Email-Notification.png)
 
+### 7. Validated Runs (Proof of Concept)
+A log of successful automation runs confirming the stability of the pipeline.
+![Project Runs](screenshots/7-Project-Runs.png)
+
 ---
 
 ## Key Takeaways & ROI
